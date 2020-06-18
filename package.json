@@ -1,6 +1,6 @@
 {
   "name": "@f3rno/eslint-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "description": "Personal ESLint config",
   "author": "Cris Mihalache <me@f3rno.com>",
