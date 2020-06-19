@@ -30,7 +30,6 @@ npm i --save-dev @f3rno/eslint-config
 - [eslint-plugin-package-json](https://www.npmjs.com/package/eslint-plugin-package-json)
 - [eslint-plugin-private-props](https://www.npmjs.com/package/eslint-plugin-private-props)
 - [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise)
-- [eslint-plugin-promise-catch](https://www.npmjs.com/package/eslint-plugin-promise-catch)
 - [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react)
 - [eslint-plugin-security](https://www.npmjs.com/package/eslint-plugin-security)
 - [eslint-plugin-sonarjs](https://www.npmjs.com/package/eslint-plugin-sonarjs)
