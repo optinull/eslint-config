@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.5](https://github.com/f3rno/eslint-config/compare/v1.1.4...v1.1.5) (2020-06-20)
+
+
+### Bug Fixes
+
+* lock sonarjs dep at commit ([a5510c9](https://github.com/f3rno/eslint-config/commit/a5510c91c1a1e1596f5591c2c253d5c3988c5608))
+
 ### [1.1.4](https://github.com/f3rno/eslint-config/compare/v1.1.3...v1.1.4) (2020-06-20)
 
 ### [1.1.3](https://github.com/f3rno/eslint-config/compare/v1.1.2...v1.1.3) (2020-06-20)
