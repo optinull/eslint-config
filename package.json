@@ -1,6 +1,6 @@
 {
   "name": "@f3rno/eslint-config",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "license": "MIT",
   "description": "Personal ESLint config",
   "author": "Cris Mihalache <me@f3rno.com>",
@@ -24,7 +24,9 @@
   "scripts": {
     "test": "npm run lint",
     "lint": "./node_modules/.bin/eslint package.json *.js lib",
-    "release": "./node_modules/.bin/standard-version && git push origin master --follow-tags && npm publish"
+    "update-version": "./node_modules/.bin/standard-version",
+    "update-deps": "./node_modules/.bin/updates -u -p -c",
+    "release": "npm run update-version && git push origin master --follow-tags && npm publish"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
