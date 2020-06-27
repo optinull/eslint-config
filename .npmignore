@@ -1,9 +1,13 @@
 /node_modules
 /.undodir
 /.git
+
 .gitignore
-.eslintrc.json
+.npmignore
+
 package-lock.json
 yarn.lock
 yarn-error.log
+
+.eslintrc.json
 tags
