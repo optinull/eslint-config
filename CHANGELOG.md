@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.9](https://github.com/optinull/eslint-config/compare/v1.1.8...v1.1.9) (2020-11-29)
+
+
+### Bug Fixes
+
+* rm vestigial clean-regex rule ([53ac470](https://github.com/optinull/eslint-config/commit/53ac4705b102178a0c6774b97d45f4e52ac038b4))
+
 ### [1.1.8](https://github.com/f3rno/eslint-config/compare/v1.1.7...v1.1.8) (2020-07-04)
 
 ### [1.1.7](https://github.com/f3rno/eslint-config/compare/v1.1.6...v1.1.7) (2020-06-27)

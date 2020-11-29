@@ -1,6 +1,6 @@
 {
   "name": "@optinull/eslint-config",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "license": "MIT",
   "description": "Personal ESLint config",
   "author": "Cris Mihalache <f3rno.doi@pm.me>",
