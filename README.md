@@ -1,4 +1,4 @@
-# @f3rno/eslint-config
+# @optinull/eslint-config
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -7,25 +7,25 @@
 Personal ESLint config.
 
 ### Installation
-![npm badge](https://nodei.co/npm/@f3rno/eslint-config.png?downloads=true&downloadRank=true&stars=true)
+![npm badge](https://nodei.co/npm/@optinull/eslint-config.png?downloads=true&downloadRank=true&stars=true)
 
 ```bash
-yarn add -D @f3rno/eslint-config
+yarn add -D @optinull/eslint-config
 ```
 
 ### Usage
 
 ```json <caption>for node/JS-only projects</caption>
-{ "extends": ["@f3rno/eslint-config"] } // alias
-{ "extends": ["@f3rno/eslint-config/js"] } //
+{ "extends": ["@optinull/eslint-config"] } // alias
+{ "extends": ["@optinull/eslint-config/js"] } //
 ```
 
 ```json <caption>for react projects</caption>
-{ "extends": ["@f3rno/eslint-config/react"] }
+{ "extends": ["@optinull/eslint-config/react"] }
 ```
 
 ```json <caption>for electron projects</caption>
-{ "extends": ["@f3rno/eslint-config/electron"] }
+{ "extends": ["@optinull/eslint-config/electron"] }
 ```
 
 ### [Release History](#release_history)
@@ -69,8 +69,8 @@ Distributed under the **MIT** license. See [LICENSE.md](LICENSE.md) for more inf
 - [eslint-plugin-why](https://www.npmjs.com/package/eslint-plugin-why)
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/@f3rno/eslint-config.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@f3rno/eslint-config
-[npm-downloads]: https://img.shields.io/npm/dm/@f3rno/eslint-config.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/f3rno/@f3rno/eslint-config/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/f3rno/@f3rno/eslint-config
+[npm-image]: https://img.shields.io/npm/v/@optinull/eslint-config.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@optinull/eslint-config
+[npm-downloads]: https://img.shields.io/npm/dm/@optinull/eslint-config.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/optinull/@optinull/eslint-config/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/optinull/@optinull/eslint-config
